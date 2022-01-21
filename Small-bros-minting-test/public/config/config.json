@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5dc34eea8b87b3945dc264003cbf106399a744b65744e0fc02df88a9b5e50cf4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/tx/0x5dc34eea8b87b3945dc264003cbf106399a744b65744e0fc02df88a9b5e50cf4",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "Ethereum",
+    "ID": 137
+  },
+  "NFT_NAME": "Small Bros",
+  "SYMBOL": "SBNFT",
+  "MAX_SUPPLY": 22,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/smallbro",
+  "SHOW_BACKGROUND": true
+}
